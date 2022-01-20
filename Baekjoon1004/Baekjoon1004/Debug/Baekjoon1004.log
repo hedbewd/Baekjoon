@@ -1,0 +1,4 @@
+﻿  1004.cpp
+C:\Users\82102\source\repos\Baekjoon\Baekjoon1004\Baekjoon1004\1004.cpp(19,9): warning C4101: 'd1' :참조되지 않은 지역 변수입니다.
+C:\Users\82102\source\repos\Baekjoon\Baekjoon1004\Baekjoon1004\1004.cpp(19,13): warning C4101: 'd2' :참조되지 않은 지역 변수입니다.
+  Baekjoon1004.vcxproj -> C:\Users\82102\source\repos\Baekjoon\Baekjoon1004\Debug\Baekjoon1004.exe
